@@ -28,4 +28,4 @@ Estimated full-year projection (Run Rate),
 
 A clear focus on the selected KPI and time frame.
 
-This project showcases strong data modeling, DAX proficiency, and dashboard design, making it ideal for inclusion in a data analyst portfolio or as a technical reference for Power BI learning.
+This project showcases strong data modeling, DAX proficiency, and dashboard design.
